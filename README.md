@@ -4,7 +4,7 @@ I don't use N1MM logger and the current version of Not1MM doesn't see to lookup 
 
 There are a couple of versions here.
 
-1. CWOps.py - This is a command line application. Just download the code and make sure the CSV file is in th esame directory and has the same title. Launch it with ``python3 CWOPs.py``
+1. CWOps.py - This is a command line application. Just download the code and make sure the CSV file is in the same directory and has the same title. Launch it with ``python3 CWOPs.py``
 2. CWT.py - An attempt at a GUI version that looks awful but loads the CSV ahead of doing the sam task. Same rules as above but launch it with ``python3 CWT.py``
 
 
